@@ -17,4 +17,4 @@ Compile the code with tests:
 
 ## Example
 
-For example of implementation of SHTOOLS library see [ELPOT](https://github.com/Dmitry-Skachkov/ELPOT) 
+For example of using SHTOOLS library see [ELPOT](https://github.com/Dmitry-Skachkov/ELPOT) 
