@@ -14,3 +14,7 @@ Compile the code with tests:
 
 > make fortran-tests
 
+
+## Example
+
+For example of implementation of SHTOOLS library see https://github.com/Dmitry-Skachkov/ELPOT/tree/main 
